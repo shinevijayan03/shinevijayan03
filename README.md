@@ -12,8 +12,9 @@ With 24+ years of experience leading enterprise transformation across pharmaceut
 🌍 Projects here showcase:
 - End-to-end AI pipelines from training to deployment
 - TinyML deployments on Arduino & Jetson platforms
-- Document intelligence with RAG and LLMs
-- Secure, compliant AI system designs
+- `RAG Agent for Document Intelligence` – LangChain + Azure deployment
+- `Edge Vision System for Quality Inspection` – YOLOv5 on Jetson Nano
+- `TinyML Predictive Maintenance` – Real-time vibration detection on Arduino Due
 
 🔗 LinkedIn: [shinevijayan](https://www.linkedin.com/in/shinevijayan)  
 📫 Email: shine.vijayan@gmail.com  
