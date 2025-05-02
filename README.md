@@ -10,12 +10,12 @@ With 24+ years of experience leading enterprise transformation across pharmaceut
 - 📊 Data Strategy, Digital Supply Chains, and Self-Service BI
 
 🌍 Projects here showcase:
-- End-to-end AI pipelines from training to deployment
-- TinyML deployments on Arduino & Jetson platforms
 - `RAG Agent for Document Intelligence` – LangChain + Azure deployment
 - `Edge Vision System for Quality Inspection` – YOLOv5 on Jetson Nano
 - `TinyML Predictive Maintenance` – Real-time vibration detection on Arduino Due
-
+- End-to-end AI pipelines from training to deployment
+- TinyML deployments on Arduino & Jetson platforms
+ 
 🔗 LinkedIn: [shinevijayan](https://www.linkedin.com/in/shinevijayan)  
 📫 Email: shine.vijayan@gmail.com  
 🧪 Currently exploring: Low-latency AI at the edge, LLMOps, and AI for industrial traceability.
