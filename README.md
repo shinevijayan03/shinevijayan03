@@ -20,19 +20,11 @@ AI systems that combine vibration sensor data, machine video, SOP/manual retriev
 
 Enterprise RAG pipelines, hybrid search, vector databases, knowledge graphs, document intelligence, and chat-with-documents applications.
 
-### ⚙️ LLMOps, MLOps & Evaluation
-
-Evaluation harnesses, prompt testing, hallucination checks, traceability, model governance, observability, and deployment pipelines for AI applications.
-
 ### 🌐 Edge AI & TinyML
 
 Low-latency AI on Jetson, Arduino, and embedded devices for computer vision, predictive maintenance, and industrial inspection use cases.
 
-### 🧠 Responsible & Enterprise-Grade AI
-
-Patterns for governance, security, compliance, human-in-the-loop review, auditability, and scalable AI adoption across large organizations.
-
-## Research Areas
+## 🧠 Research Areas
 
 - CPU–GPU Hardware–Software Co-Design
 - AI Runtime Systems
@@ -50,6 +42,7 @@ Patterns for governance, security, compliance, human-in-the-loop review, auditab
 I’m currently building open-source examples around:
 
 * Agentic RAG and multi-agent AI systems
+* CPU–GPU Hardware–Software Co-Design
 * Industrial failure explanation using sensor + video + document evidence
 * Edge AI and TinyML for real-world machine intelligence
 * LLMOps evaluation frameworks for production AI
