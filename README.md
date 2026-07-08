@@ -32,6 +32,19 @@ Low-latency AI on Jetson, Arduino, and embedded devices for computer vision, pre
 
 Patterns for governance, security, compliance, human-in-the-loop review, auditability, and scalable AI adoption across large organizations.
 
+## Research Areas
+
+- CPU–GPU Hardware–Software Co-Design
+- AI Runtime Systems
+- Distributed AI Infrastructure
+- HPC for Enterprise AI
+- AI Operating Systems
+- AI Infrastructure Digital Twins
+- AI Systems Performance Engineering
+- Enterprise AI Platforms
+- Agentic AI Systems
+- Multimodal Industrial AI
+
 ## Current Focus
 
 I’m currently building open-source examples around:
