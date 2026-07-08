@@ -6,6 +6,8 @@ My work focuses on moving AI beyond demos into deployable, scalable, and governe
 
 Most of my repositories are hands-on: working code, architecture patterns, evaluation frameworks, deployment-ready templates, and practical examples for builders who want to move from idea → prototype → production.
 
+My goal is to build open-source systems that connect: Silicon → Runtime → AI Platform → Enterprise Value
+
 ## What I Build
 
 ### 🤖 Agentic AI Systems
